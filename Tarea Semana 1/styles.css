@@ -1,0 +1,175 @@
+html, body{
+    margin: 0;
+}
+
+section{
+    background: black;
+    color: white;
+    font-family: 'arial';
+    background-image: url("https://www.xtrafondos.com/wallpapers/resized/stranger-things-welcome-to-hawkins-3328.jpg?s=large");
+    background-size: cover;
+    height:1000px;
+    
+}
+    
+.Marca{
+    display: flex;
+    padding-top: 50px;
+}
+.Netflix{
+    margin-left: 90px;
+    margin-bottom: 10px;
+    
+} 
+    
+.Original{
+    font-weight: 100;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.StrangerLogo img{
+    margin-left: 90px;
+    width: 20%;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+    
+.Informacion {
+    display: flex;
+    
+}   
+
+.Match{
+    color: #52de97;
+    margin-left: 90px;
+}
+
+.Year{
+    font-family: "Arial";
+    font-weight: 50;
+    margin-left: 15px;
+}
+
+.Season{
+    font-family: "Arial";
+    font-weight: 50;
+    margin-left: 15px;
+}
+
+.B4K{
+    background: none;
+    color: white;
+    border-color: white;
+    border-width: 0.5px;
+    padding:3px;
+    height: 20px;
+    font-family: "Arial";
+    font-weight: 50;
+    margin-left: 15px;
+    margin-top: 14px;
+    border-radius: 5px;
+}
+.B5{
+    background: none;
+    color: white;
+    border-color: white;
+    border-width: 0.5px;
+    padding:3px;
+    height: 20px;
+    font-family: "Arial";
+    font-weight: 50;
+    margin-left: 15px;
+    margin-top: 14px;
+    border-radius: 5px;
+}
+
+.Resumen{
+    margin-left: 90px;
+    font-size: 20px;
+}
+
+.Reparto{
+    font-style: italic;
+}
+
+.Play{
+    margin-left: 50px;
+    margin-top: 80px;
+    background: red;
+    display: block;
+    width: 300px;
+    height: 40px;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+}
+
+.Watched{
+    margin-left: 90px;
+    margin-top: 200px;
+    margin-bottom: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+.h4text{
+    margin-bottom: 2px;
+    padding: 0px 0px;
+}
+
+.menu{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: black;
+    margin-top: 2px;
+}
+
+ 
+.Cable{
+    width: 325px;
+    cursor: pointer;
+}
+
+.Dirk{
+    width: 325px;
+    cursor: pointer;
+}
+
+.Madame{
+    width: 325px;
+    cursor: pointer;
+}
+
+.Elite{
+    width: 325px;
+    cursor: pointer;
+}
+
+.Piel{
+    width: 325px;
+    cursor: pointer;
+}
+
+.logo{
+   width: 280px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
